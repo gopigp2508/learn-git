@@ -1,0 +1,1 @@
+print ("Divide:", 14/2)
